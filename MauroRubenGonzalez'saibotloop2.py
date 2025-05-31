@@ -16,3 +16,5 @@ while True:
     print (real_age)
     name=input('What is your name?')
     print (name)
+
+Copyright [2025] [Mauro Ruben Gonzalez]
